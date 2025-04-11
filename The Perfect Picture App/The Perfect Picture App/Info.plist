@@ -3,8 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>NSDocumentDirectoryUsageDescription</key>
-	<string>This app needs access to store your uploaded sounds.</string>
-	<key>Storyboard Name</key>
-	<string>Main</string>
+	<string>This app allows users to upload sound files.</string>
 </dict>
 </plist>
